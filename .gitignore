@@ -1,0 +1,62 @@
+# ------------------------
+# Flutter / Dart
+# ------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+**/Generated.xcconfig
+**/GeneratedPluginRegistrant.*
+
+# Android
+**/gradle-wrapper.jar
+**/gradle/
+**/local.properties
+**/GeneratedPluginRegistrant.java
+*.iml
+
+# VS Code
+.vscode/
+.idea/
+
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+develop-eggs/
+.installed.cfg
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# ------------------------
+# OS & Genel
+# ------------------------
+.DS_Store
+Thumbs.db
