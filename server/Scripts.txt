@@ -1,0 +1,4 @@
+
+To activate vnv -> terminal -> run -> source venv/Scripts/activate
+
+To run server with fastapi -> terminal -> run -> fastapi dev main.py

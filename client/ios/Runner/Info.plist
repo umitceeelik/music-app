@@ -49,5 +49,7 @@
 	<string>This app requires access to Apple Music library to function properly.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This app requires access to photo library to function properly.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app requires access to microphone to function properly.</string>
 </dict>
 </plist>
